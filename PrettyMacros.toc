@@ -1,0 +1,8 @@
+## Interface: 100200
+## Version: 1.0.0
+## Title: Pretty Macros
+## Notes: My first addon
+## Author: Sbegat0
+## SavedVariables: Database
+
+PrettyMacros.lua
